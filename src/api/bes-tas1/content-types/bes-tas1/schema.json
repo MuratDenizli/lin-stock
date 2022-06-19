@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bes_tas2",
+  "info": {
+    "singularName": "bes-tas1",
+    "pluralName": "bes-tas2",
+    "displayName": "BesTas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urun": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

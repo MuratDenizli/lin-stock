@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sets",
+  "info": {
+    "singularName": "set",
+    "pluralName": "sets",
+    "displayName": "Set"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

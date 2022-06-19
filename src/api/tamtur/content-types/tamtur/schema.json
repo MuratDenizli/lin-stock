@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tamturs",
+  "info": {
+    "singularName": "tamtur",
+    "pluralName": "tamturs",
+    "displayName": "Tamtur"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

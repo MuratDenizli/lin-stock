@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kenari_taslis",
+  "info": {
+    "singularName": "kenari-tasli",
+    "pluralName": "kenari-taslis",
+    "displayName": "KenariTasli"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

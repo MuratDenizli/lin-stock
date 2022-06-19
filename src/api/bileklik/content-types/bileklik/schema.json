@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bilekliks",
+  "info": {
+    "singularName": "bileklik",
+    "pluralName": "bilekliks",
+    "displayName": "Bileklik"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

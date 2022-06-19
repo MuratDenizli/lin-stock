@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "anturajs",
+  "info": {
+    "singularName": "anturaj",
+    "pluralName": "anturajs",
+    "displayName": "Anturaj"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bagets",
+  "info": {
+    "singularName": "baget",
+    "pluralName": "bagets",
+    "displayName": "Baget",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "adi": {
+      "type": "string"
+    },
+    "fiyati": {
+      "type": "string"
+    },
+    "resimler": {
+      "type": "json"
+    }
+  }
+}

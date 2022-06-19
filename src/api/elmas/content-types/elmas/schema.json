@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "elmases",
+  "info": {
+    "singularName": "elmas",
+    "pluralName": "elmases",
+    "displayName": "Elmas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kupes",
+  "info": {
+    "singularName": "kupe",
+    "pluralName": "kupes",
+    "displayName": "Kupe"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

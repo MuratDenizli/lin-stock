@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tektas_kolye_kupes",
+  "info": {
+    "singularName": "tektas-kolye-kupe",
+    "pluralName": "tektas-kolye-kupes",
+    "displayName": "Tektas_kolye_kupe"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

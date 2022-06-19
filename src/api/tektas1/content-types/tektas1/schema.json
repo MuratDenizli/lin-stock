@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tektas2",
+  "info": {
+    "singularName": "tektas1",
+    "pluralName": "tektas2",
+    "displayName": "Tektas",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "adi": {
+      "type": "string"
+    },
+    "fiyati": {
+      "type": "string"
+    },
+    "resimler": {
+      "type": "json"
+    }
+  }
+}

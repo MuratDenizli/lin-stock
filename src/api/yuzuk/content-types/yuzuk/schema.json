@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "yuzuks",
+  "info": {
+    "singularName": "yuzuk",
+    "pluralName": "yuzuks",
+    "displayName": "Yuzuk"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Urunler": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
