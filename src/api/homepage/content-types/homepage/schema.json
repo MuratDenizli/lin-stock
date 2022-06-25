@@ -12,22 +12,14 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Katalog_Resmi": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "Baslik": {
       "type": "text"
     },
     "url": {
       "type": "string"
+    },
+    "resim_url": {
+      "type": "text"
     }
   }
 }
