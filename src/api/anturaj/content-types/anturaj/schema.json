@@ -4,22 +4,22 @@
   "info": {
     "singularName": "anturaj",
     "pluralName": "anturajs",
-    "displayName": "Anturaj"
+    "displayName": "Anturaj",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "Urunler": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": true
+    "adi": {
+      "type": "string"
+    },
+    "fiyati": {
+      "type": "string"
+    },
+    "resimler": {
+      "type": "json"
     }
   }
 }
