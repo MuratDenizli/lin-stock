@@ -4,22 +4,22 @@
   "info": {
     "singularName": "tektas-kolye-kupe",
     "pluralName": "tektas-kolye-kupes",
-    "displayName": "Tektas_kolye_kupe"
+    "displayName": "Tektas_kolye_kupe",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "Urunler": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": true
+    "adi": {
+      "type": "string"
+    },
+    "fiyati": {
+      "type": "string"
+    },
+    "resimler": {
+      "type": "json"
     }
   }
 }
