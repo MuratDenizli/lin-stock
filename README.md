@@ -43,7 +43,7 @@ Strapi gives you many possible deployment options for your project. Find the one
 - [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
 - [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
 - [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
+<!-- - [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements. -->
 
 Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
 
