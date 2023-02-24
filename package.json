@@ -1,6 +1,6 @@
 {
   "name": "lin-stock",
-  "private": false,
+  "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
@@ -24,9 +24,8 @@
     "uuid": "0ce469b8-69a5-4db4-83e3-4925c51f2d29"
   },
   "engines": {
-    "node": "14.18.1",
-    "npm": "9.2.0",
-    "yarn": "1.22.18"
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
   },
   "license": "MIT"
 }
